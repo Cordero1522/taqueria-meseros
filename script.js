@@ -4,7 +4,7 @@
    Reemplaza esta URL con la de tu Google Apps Script publicado
    como aplicación web (Implementar → Aplicación web → Cualquiera).
    ============================================================ */
-const GOOGLE_SHEETS_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbXXXXXXXXXXXXXXX/exec";
+const GOOGLE_SHEETS_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyZfhk6oMMbOYmAYQuGj7GRuG7__FrbB19Gc-8FT2D4M8kuxwladINGlcogRIPNqJef/exec";
 
 /* ============================================================
    IDENTIDAD DEL MESERO (persistente por dispositivo)
